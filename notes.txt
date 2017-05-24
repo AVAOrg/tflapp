@@ -1,0 +1,19 @@
+Name of App/Repository
+
+Collaboration
+ - Github (for now)
+ - Gitlab
+ - BitBucket
+ 
+Issue Management
+ 
+Workflow/Deploy
+ - Open Force
+ - Heroku?
+ - AWS
+ 
+Languages
+ - Heavy Server Side - Java and servlets
+ - Python
+ 
+Continuous Integration
